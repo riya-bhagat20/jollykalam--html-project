@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.form{
+width:1500px;
+height:auto;
+margin-top: 10rem;
+margin-left:50rem;
+ background-color: gainsboro;
+display: flex;
+justify-content: center;
+align-items: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 2rem;
+gap: 2rem;
+padding: 2rem;
+}
+#box{
+    background-color: white;
+    border: rgb(184, 184, 184) 1px solid ;
+    padding:1rem 15rem 1rem 0px;
+    font-size:1rem;
+}
+.second{
+    margin:0px;
+}
+#re{
+    background-color: white;
+    border: rgb(184, 184, 184) 1px solid ;
+    padding:1rem 3rem;
+    font-size:1.5rem;
+}
